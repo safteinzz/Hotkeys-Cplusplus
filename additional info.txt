@@ -1,0 +1,11 @@
+//Info
+https://www.youtube.com/watch?v=Nj-Bw0-SNOM
+https://www.youtube.com/watch?v=lkXs8t4kiAU
+https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-registerhotkey
+https://docs.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes
+https://stackoverflow.com/questions/5862757/how-do-i-link-to-a-library-with-codeblocks
+https://www.youtube.com/watch?v=nU-nXlAlX7g
+
+
+//another way of picking messages
+if (PeekMessage(&msg, NULL, WM_HOTKEY, WM_HOTKEY, PM_REMOVE) > 0)
