@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1643514686 source:c:\users\safteinzz\!fuckhotkeyscplusplus\macroscplusplus\main.cpp
+	<stdio.h>
+	<windows.h>
+	<iostream>
+
